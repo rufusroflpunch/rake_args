@@ -20,7 +20,7 @@ end
 The result:
 
 ```
-$ rake hellow_world hi planet
+$ rake hello_world hi planet
 :hello => hi
 :world => planet
 ```
